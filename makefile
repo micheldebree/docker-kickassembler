@@ -1,4 +1,4 @@
-VERSION=4.16
+VERSION=4.19
 IMAGE=micheldebree/kickass:$(VERSION)
 
 image:
